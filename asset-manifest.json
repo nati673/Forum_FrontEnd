@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Forum_FrontEnd/static/css/main.5cddf19f.css",
-    "main.js": "/Forum_FrontEnd/static/js/main.3f46d2e7.js",
-    "index.html": "/Forum_FrontEnd/index.html",
-    "main.5cddf19f.css.map": "/Forum_FrontEnd/static/css/main.5cddf19f.css.map",
-    "main.3f46d2e7.js.map": "/Forum_FrontEnd/static/js/main.3f46d2e7.js.map"
+    "main.css": "/nati673/Forum_FrontEnd/static/css/main.5cddf19f.css",
+    "main.js": "/nati673/Forum_FrontEnd/static/js/main.3f46d2e7.js",
+    "index.html": "/nati673/Forum_FrontEnd/index.html",
+    "main.5cddf19f.css.map": "/nati673/Forum_FrontEnd/static/css/main.5cddf19f.css.map",
+    "main.3f46d2e7.js.map": "/nati673/Forum_FrontEnd/static/js/main.3f46d2e7.js.map"
   },
   "entrypoints": [
     "static/css/main.5cddf19f.css",
